@@ -46,6 +46,9 @@ html{
     background-position: center;
     border: 4px solid rgb(185, 185, 17);
 }
+.res{
+    color: rgb(185, 185, 17);
+}
 .row2{
     margin-top: 20px;
 }
